@@ -31,6 +31,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 Você pode acessar o projeto online clicando no link abaixo:
 
-👉 [Jogo Amigo Secreto](https://suianehenrichs1.github.io/Amigo-Secreto/)
+👉 [Jogo Número Secreto](jogo-do-numero-secreto--três.vercel.app)
 &nbsp;  
 &nbsp;  
