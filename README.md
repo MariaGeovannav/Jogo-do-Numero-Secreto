@@ -5,9 +5,12 @@ Projeto de um jogo interativo chamado Jogo do Número Secreto, no qual o jogador
 </p>
 
 🖥️ Demonstração da Aplicação
-<div align="center">
-  https://github.com/user-attachments/assets/ac1f2be7-40c4-4ff2-ae74-96c310aad821
+ <div align="center">
+  <a href="https://github.com/MariaGeovannav/Jogo-do-Numero-Secreto/assets/chrome_NkdkzqtcTf.mp4">
+    <img src="assets/thumbnail.png" alt="Demonstração do Jogo do Número Secreto" width="600">
+  </a>
 </div>
+
 
 
 ## ✨ Projeto
