@@ -6,8 +6,8 @@ Projeto de um jogo interativo chamado Jogo do Número Secreto, no qual o jogador
 
 🖥️ Demonstração da Aplicação
  <div align="center">
-  <a href="https://github.com/MariaGeovannav/Jogo-do-Numero-Secreto/assets/chrome_NkdkzqtcTf.mp4">
-    <img src="assets/thumbnail.png" alt="Demonstração do Jogo do Número Secreto" width="600">
+  <a href="https://github.com/MariaGeovannav/Jogo-do-Numero-Secreto/raw/main/video.mp4">
+    <img src="img/thumbnail.png" alt="Demonstração do Jogo" width="600">
   </a>
 </div>
 
