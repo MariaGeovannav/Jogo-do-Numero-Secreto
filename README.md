@@ -6,7 +6,7 @@ Projeto de um jogo interativo chamado Jogo do Número Secreto, no qual o jogador
 
 🖥️ Demonstração da Aplicação
 <div align="center">
-  https://github.com/MariaGeovannav/Jogo-do-Numero-Secreto/issues/1#issue-2807968569
+  chrome_NkdkzqtcTf.mp4 
 </div>
 
 
