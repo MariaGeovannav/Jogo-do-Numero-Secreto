@@ -31,6 +31,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 Você pode acessar o projeto online clicando no link abaixo:
 
-👉 [Jogo Número Secreto](jogo-do-numero-secreto--três.vercel.app)
+👉 [Jogo Número Secreto](https://jogo-do-numero-secreto-gmnw15dec-mariageovannavs-projects.vercel.app/)
 &nbsp;  
 &nbsp;  
