@@ -4,7 +4,7 @@
 Projeto de um jogo interativo chamado Jogo do Número Secreto, no qual o jogador tem como objetivo adivinhar um número entre 1 e 10, utilizando as dicas fornecidas pelo sistema.
 </p>
 
-🖥️ Demonstração da Aplicação
+## 🖥️ Demonstração da Aplicação
 
 https://github.com/user-attachments/assets/266abb37-7c41-4057-9f5e-40c77de8e4d1
 
